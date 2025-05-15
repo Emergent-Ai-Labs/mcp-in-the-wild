@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS system files
+.DS_Store
+
+# Python environment and metadata
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# Logs and local debug
+*.log
+*.bak
+*.swp
+
+# Flask server logs / cache
+instance/
+*.db
+*.sqlite3
+
+# API secrets and environment configs
+.env
+.env.*
+
+# Jupyter & IPython (just in case)
+.ipynb_checkpoints/
+*.ipynb
+
+# Coverage and test output
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.pytest_cache/
+
+# PyInstaller
+*.spec
+
+# Static site cache
+__site__/
+.cache/
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# Node.js leftovers (if front-end ever grows)
+node_modules/
+npm-debug.log
+yarn-error.log

@@ -1,0 +1,10 @@
+flask
+requests
+aiohttp
+openai
+transformers
+torch
+numpy
+langchain
+langchain-core
+langchain-openai
