@@ -1,0 +1,1 @@
+MIT — See LICENSE file.
